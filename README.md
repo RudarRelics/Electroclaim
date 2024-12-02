@@ -9,15 +9,15 @@ Electroclaim helps users find e-waste recycling centers and schedule doorstep co
 
 ### Home Page
 ![Home Page](https://i.postimg.cc/t4K7wMRS/home.png)
-
-### Cart Page
-![Cart Page](https://i.postimg.cc/GhS4JpW1/cart.png)
+![Home Page](https://i.postimg.cc/Vkrd78w0/3rd.png)
 
 ### Map View
 ![Map View](https://i.postimg.cc/26w6qjQM/map.png)
 
-### Collection Confirmation
-![Collection Confirmation](https://i.postimg.cc/Vkrd78w0/3rd.png)
+### Cart Page
+![Cart Page](https://i.postimg.cc/GhS4JpW1/cart.png)
+
+
 
 ## Features
 - E-Waste Locator
